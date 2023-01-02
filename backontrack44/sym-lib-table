@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "keebio")(type "Legacy")(uri "${KIPRJMOD}/libraries/keebio-components/keebio.lib")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/libraries/marbastlib/marbastlib-various.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/libraries/marbastlib/marbastlib-mx.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-choc")(type "KiCad")(uri "${KIPRJMOD}/libraries/marbastlib/marbastlib-choc.kicad_sym")(options "")(descr ""))
+  (lib (name "project")(type "KiCad")(uri "${KIPRJMOD}/project.kicad_sym")(options "")(descr ""))
+  (lib (name "lily58-oled")(type "Legacy")(uri "${KIPRJMOD}/libraries/Lilly58Lib/oled.lib")(options "")(descr ""))
+)
